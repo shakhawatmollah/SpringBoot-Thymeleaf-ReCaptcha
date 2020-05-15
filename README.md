@@ -15,7 +15,9 @@ SpringBoot Thymeleaf Google ReCaptcha with Contact-Form. Sending mail and store 
 
 ## How to use
 Set your secret key in application.properties file:
+
 [Google reCaptcha Admin Console](https://www.google.com/recaptcha/admin/create)
+
 ```properties
 # Google reCAPTCHA v2 keys
 google.recaptcha.key.site=<your_site_key>
